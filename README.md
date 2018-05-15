@@ -9,3 +9,6 @@ Target: start a message between server-client and see how does it works
 Program.Lang: Python3.6+
 
 Packages: socket, time, Decimal
+
+
+Please Note! Do not hesitate to contact for any additional help or information here: papadopoulos.v.dimitris@gmail.com
