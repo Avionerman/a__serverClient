@@ -11,4 +11,4 @@ Program.Lang: Python3.6+
 Packages: socket, time, Decimal
 
 
-Please Note! Do not hesitate to contact for any additional help or information here: papadopoulos.v.dimitris@gmail.com
+Do not hesitate to contact me for any additional information using my email papadopoulos.v.dimitris@gmail.com or my LinkedIn profile https://www.linkedin.com/in/dimitriosvpapadopoulos/ 😉
